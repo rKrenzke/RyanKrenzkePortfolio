@@ -1,0 +1,146 @@
+body, html 
+{
+    height: 100%;
+    z-index: 0;
+    font-family: 'Syne', sans-serif;
+}
+
+.navbar-nav li
+{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+h1 
+{
+    padding-left: 15%;
+    padding-top: 15%;
+}
+
+hr{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.masthead 
+{
+    background-image: url("./assets/LandBridge.JPG");
+    margin-top: 0;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container
+{
+    padding: 2em;
+}
+
+.headText
+{
+    padding: 0;
+    text-align: right;
+}
+
+.PicOfMe
+{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+.container h3
+{
+    text-align: center;
+    padding: 0.5em;
+}
+
+ul.icon-tab-nav-title 
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border: 0;
+}
+
+
+.card-img-top
+{
+    widows: 100%;
+    height: 15vw;
+    object-fit: contain;
+}
+
+#snhu
+{
+    background-color: #0e3472;
+}
+
+#elevenfifty
+{
+    background-color: #e33e42;
+}
+
+.card-title
+{
+    text-align: center;
+}
+
+.card-footer
+{
+    text-align: center;
+}
+
+
+.card-body
+{
+    border-top: 2px solid black;
+   
+}
+
+section#contact-me{
+    background-color: #4e4d51;
+    align-content: center;
+}
+#form{
+    margin: auto;
+    padding-top: 1em;
+}
+
+.btn-black
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.btn-black:hover{
+    background-color: whitesmoke;
+}
+
+.mb-60{
+    color: whitesmoke;
+}
+
+footer li 
+{
+    list-style: none;
+    text-align: right;
+    display: inline-block;
+}
+
+.site-footer
+{
+  background-color:#26272b;
+  color:#737373;
+  padding: 0;
+}
+
+#siteFooter{
+    padding: 0;
+}
+
+.copywrite-text
+{
+    text-align: center;
+}
