@@ -72,6 +72,15 @@ ul.icon-tab-nav-title
     object-fit: contain;
 }
 
+#portfolio{
+    padding: 0px 60px 60px;
+}
+
+#portfolio-header{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
 #snhu
 {
     background-color: #0e3472;
@@ -120,6 +129,11 @@ section#contact-me{
 
 .mb-60{
     color: whitesmoke;
+}
+
+#resume-btn{
+    width: 200px;
+
 }
 
 footer li 
