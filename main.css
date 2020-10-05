@@ -81,6 +81,11 @@ ul.icon-tab-nav-title
     padding-bottom: 20px;
 }
 
+
+.figure-img{
+    height: 275px;
+}
+
 #snhu
 {
     background-color: #0e3472;
@@ -133,8 +138,8 @@ section#contact-me{
 
 #resume-btn{
     width: 200px;
-
 }
+
 
 footer li 
 {
