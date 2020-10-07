@@ -2,7 +2,7 @@ body, html
 {
     height: 100%;
     z-index: 0;
-    font-family: 'Syne', sans-serif;
+    font-family: 'Antic', sans-serif;
 }
 
 .navbar-nav li
@@ -31,6 +31,11 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.navbar-brand{
+    padding-left: 30px;
+}
+
 
 .container
 {
@@ -64,6 +69,13 @@ ul.icon-tab-nav-title
     border: 0;
 }
 
+#skillz{
+    flex-wrap: wrap;
+}
+
+ul.icon-tab-nav-title li{
+    padding: 0px 30px;
+}
 
 .card-img-top
 {
@@ -111,6 +123,12 @@ ul.icon-tab-nav-title
 {
     border-top: 2px solid black;
    
+}
+
+@media screen and (min-width:1015px){
+    #about-me{
+        margin-left: 10%;
+    }
 }
 
 section#contact-me{
