@@ -3,7 +3,9 @@ body, html
     height: 100%;
     z-index: 0;
     font-family: 'Antic', sans-serif;
+    scroll-behavior: smooth;
 }
+
 
 .navbar-nav li
 {
